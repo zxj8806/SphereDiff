@@ -1,6 +1,6 @@
-# SphereDiff: Unsupervised Graph Clustering with Geometry-Aware Diffusion
+# Heat Diffusion Driven Directional Prototype Learning for Graph Clustering
 This repository contains the official implementation of the paper<br>
-**“SphereDiff: Unsupervised Graph Clustering with Geometry-Aware Diffusion.”**
+**“Heat Diffusion Driven Directional Prototype Learning for Graph Clustering.”**
 
 ---
 
